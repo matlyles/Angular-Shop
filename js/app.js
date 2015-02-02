@@ -20,11 +20,10 @@ var gems = [
 		price: 2,
 		description: 'some kind of description goes here',
 		images: [
-			{
-				full: 'image-01-full.jpg',
-				thumb: 'image-01-thumb.jpg'
-			}
-		],
+	      "img/products/image-01.jpg",
+	      "img/products/image-02.jpg",
+	      "img/products/image-03.jpg",
+	    ],
 		canPurchase: true
 	},
 	{
